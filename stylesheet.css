@@ -4,9 +4,20 @@ body {
 
 div {
     margin: auto;
+    padding: 20px;
 }
 
 h1 {
     text-align: center;
     color: gainsboro;
+    text-shadow: 3px 3px 9px black;
+}
+
+p {
+    color: gainsboro;
+}
+
+img {
+    height: 80px;
+    width: 60px;
 }
