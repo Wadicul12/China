@@ -5,3 +5,8 @@ body {
 div {
     margin: auto;
 }
+
+h1 {
+    text-align: center;
+    color: gainsboro;
+}
