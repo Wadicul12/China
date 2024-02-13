@@ -2,6 +2,16 @@ body {
     background-color: black;
 }
 
+.top {
+    padding: 50px;
+    margin: auto;
+    width: 50%;
+}
+
+div.center {
+    
+    text-align: center;
+}
 
 .main {
     margin: auto;
